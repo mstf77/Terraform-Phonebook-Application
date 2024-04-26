@@ -1,5 +1,5 @@
 variable "git-name" {
-  default = "james-clarusway"
+  default = "mstf77"
 }
 
 variable "git-token" {
@@ -11,5 +11,5 @@ variable "key-name" {
 }
 
 variable "hosted-zone" {
-  default = "clarusway.us"
+  default = "xxxx"
 }
